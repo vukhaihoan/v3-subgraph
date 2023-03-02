@@ -1,0 +1,12 @@
+{
+  "base-testnet": {
+    "Factory": {
+      "address": "0x865412B6cDf424bE36088fE3DeC2A072a26Cc494",
+      "startBlock": 911157
+    },
+    "NonfungiblePositionManager": {
+      "address": "0xCa8D86F47A0867b2dAf74b21285C3794858310dF",
+      "startBlock": 1096810
+    }
+  }
+}
